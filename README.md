@@ -20,4 +20,4 @@ Here’s what it should look like:
 * The whole thing should be split into modules (preferably with CommonJS or ES6 syntax but AMD is also fine).
 * The layout is up to you! Feel free to use tools such as http://getbootstrap.com/ or https://www.muicss.com/. In case you’d like to roll your own CSS you’re more than welcome to do so.
 
-**Project deadline**: Take your time but try to deliver it within 2 weeks time. If we don't see any activity in your test repository after 2 weeks (at least initial commits), we will automatically withdraw your application.
+**Project deadline**: Try to deliver the test within 1 week time. If we don't see any activity in your test repository after 1 week (at least initial commits), we will automatically withdraw your application.
