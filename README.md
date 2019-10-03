@@ -17,7 +17,7 @@ Here’s what it should look like:
   * [optional but very welcome] some animations or sorting/filtering options
 * It should work well in the newest browsers (mobile Chrome and Safari included!).
 * All third party dependencies (if there will be any) should be installed using either Yarn or NPM.
-* The whole thing should be split into modules (preferably with CommonJS or ES6 syntax but AMD is also fine).
+* The whole thing should be split into modules.
 * The layout is up to you! Feel free to use tools such as http://getbootstrap.com/ or https://www.muicss.com/. In case you’d like to roll your own CSS you’re more than welcome to do so.
 
 **Project deadline**: Try to deliver the test within 1 week time. If we don't see any activity in your test repository after 1 week (at least initial commits), we will automatically withdraw your application.
